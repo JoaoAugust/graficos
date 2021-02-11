@@ -181,15 +181,15 @@ h1{
         margin: 2px;
     }
     div.card{
-        width: 480px;
+        width: 485px;
         height: 370px;
         background-color: #ffffff;
         border-radius: 30px;
-        margin: 20px;
+        margin: 15px;
         justify-content: center;
         text-align: center;
-        display: inline-block;
-    }
+        display: inline-block;}
+        
     div.card1{
         width: 485px;
         height: 370px;
